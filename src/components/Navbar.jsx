@@ -14,7 +14,7 @@ export default function Navbar() {
             Contact Us
           </button>
 
-          <Image src={"/linkedIn.svg"} alt='LinkedIn_logo' width={24} height={24}/>
+          <Image src={"/linkedin.svg"} alt='LinkedIn_logo' width={24} height={24}/>
           <Image src={"/Frame.svg"} alt='frame_logo' width={24} height={24}/>
 
         </div>
