@@ -51,7 +51,7 @@ export default function Footer() {
     </div>
 
     <div className='text-black bg-white flex justify-center w-[80%] absolute bottom-20 left-[5.5rem] gap-[15rem]'>
-      <p className='text-gray-500 text-sm'>&copy2024. All Rights Reserved </p>
+      <p className='text-gray-500 text-sm'>&copy;2024. All Rights Reserved </p>
       <p className='text-gray-500 text-sm'>Supreme House. 110, 16th Road, Chembur, Mumbai - 400071</p>
     </div>
 
