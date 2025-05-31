@@ -4,7 +4,7 @@ import React from 'react'
 export default function Footer() {
   return (
     <footer className=' text-black h-[90vh] bg-white relative'>
-      <Image src={"/supreme_logos.png"} alt='company_logo' 
+      <Image src={"/Supreme_logos.png"} alt='company_logo' 
       width={160} height={160} 
       className='absolute top-[7rem] left-[16rem]'/>
 
